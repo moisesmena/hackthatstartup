@@ -1,7 +1,3 @@
-##Reto_Front_Moises_Mena
-https://moisesmena.github.io/perseo-nuwe/
-
-
 # perseo-nuwe landing page 🚀
 
 Éste es el proyecto realizado para la empresa ficticia **"PERSEO"**, dedicada desde hace más de 20 años al sector de Recursos Humanos del secto TIC, en el contexto del Hackaton de [Nuwe](https://nuwe.io/).
@@ -21,5 +17,3 @@ El proyecto está realizado utilizando HTML+CSS+JavaSript vanilla.
 ## Authors ✒️
 
 * **Moisés Mena** - *Whole project* - [GitHub Moisés](https://github.com/mmena4)
-
-
